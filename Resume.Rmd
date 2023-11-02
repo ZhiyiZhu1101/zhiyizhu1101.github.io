@@ -1,0 +1,93 @@
+---
+title: "Resume of Zhiyi Zhu"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Contact
+
+* Name: Zhiyi Zhu
+* Mobile: (929)-684-7830
+* Email Address: zz3167@cumc.columbia.edu
+* Address: 50 Haven Avenue, New York, NY 10032
+
+----------------------------------------------
+
+
+## Education
+
+**Columbia University, Mailman School of Public Health **<span style="float: right;font-weight: bold;">New York, NY</span>
+
+* Master of Science(MS), Biostatistics <span style="float: right;font-weight: bold;">expected May 2025</span> 
+* Relevant Coursework: Data Science, Biostatistical Methods, Probability, Principles of Epidemiology 
+
+**South China University of Technology**<span style="float: right;font-weight: bold;">Guangzhou, Guangdong</span>
+
+* Bachelor of Food Science and Engineering   - GPA: 3.8/4.0 <div style="text-align: right; float: right;font-weight: bold;">June, 2023</div>
+* Award: National Scholarship
+
+----------------------------------------------
+
+## Research Experience
+
+**A Functional Starch Foaming Material and Its Application in Fruit Preservation** <span style="float: right;font-weight: bold;">04/2021-04/2022 </span>
+
+**SRP (Student Research Program)** 
+
+* Using Mask R-CNN to predicted the original starch gelatinization image;
+* Realized the intelligent evaluation of granule morphological changes during starch gelatinization by.
+
+**Outcome:** Applied for a patent named Starch Granule Recognition Method based on Mask R-CNN.
+
+
+**Preparation and Application of A New Green Cushioning Packaging Material** <span style="float: right;font-weight: bold;"> 03/2021-04/2023 </span>
+
+**College Students' Innovative Entrepreneurial Training Plan Program **
+
+* Used the mixing rheometer system to investigate the relationships among starch microstructure, shear stress, 
+apparent viscosity, and shear rate;
+* Established the constitutive equation of starch rheology based on the principle of capillary and slit rheological 
+testing and through the Rabinowitsch-Mooney correction of power-law fluids, then conducted numerical simulation 
+and control for the melt transport mechanism by control volume integration method;
+* Studied the morphological distribution of each phase, bonding mode, and interface conditions of materials prepared 
+under different molding methods and process conditions by using the optical microscope and SEM, and calculated 
+the expansion rate, apparent density, water absorption, macrostructure and microstructure of the prepared materials;
+
+**Outcome:** Published two papers as the second author.
+
+
+**Application of functional starch materials in fresh-keeping of flour products** <span style="float: right;font-weight: bold;"> 11/2022-05/2023 </span>
+
+**Graduation Design Thesis**
+
+* Utilized steam-assisted foaming co-extrusion technology to produce starch-based foamed boards, investigating 
+their cross-sectional morphology and moisture absorption properties under different humidities.
+* Using the starch-based foamed boards as a carrier material and SO2 as preservative, developed starch-based slow release freshness pads with a structure resembling that of "Oreo" biscuits. Explored their antibacterial effects.
+* Applied the starch-based slow-release freshness pads to preserve fresh noodles and investigated the preservation 
+efficacy under different preservative amounts.
+
+**Outcome:** 30,000-word graduation thesis
+
+----------------------------------------------
+
+## Internship
+
+**SIRIO PHARMA** <span style="float: right; font-weight: bold;">Guangzhou, China</span>
+ 
+* Intern of Quality Control Department <span style="float: right;font-weight: bold;"> 10/2022-11/2022 </span>
+* Assisted in TGA audit, including data collation, data tidy, data analysis, translation, and update; learned and 
+mastered the knowledge of databases.
+
+----------------------------------------------
+
+## Skills
+
+* Statistical programs: SQL, R 
+* Software: Microsoft Office, WPS
+
+
+
+
+
