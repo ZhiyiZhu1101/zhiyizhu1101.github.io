@@ -1,0 +1,16 @@
+name: "Zhiyi Zhu's website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Resume"
+      href: resume.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<zhuzhiyi1101@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/ZhiyiZhu1101
+output:
+  html_document:
+    theme: cerulean
