@@ -1,0 +1,39 @@
+---
+title: "P8105 Homework 4"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+This is a website for homework 4.
+
+Welcome to Zhiyi's website!
+
+<div style="text-align: center;"> 
+
+<img src="images/image_1.jpg" style="width:75%">
+
+</div>
+
+
+# Some information about me
+My name is Zhiyi Zhu, and I come from Ningbo, Zhejiang, a coastal city in the eastern part of China. Now I am a graduate student majoring in Biostatistics at Columbia University.
+
+# Resume
+
+Through this resume, you can gain insights into my academic and professional experience from university to the present.
+
+* [Resume](Resume.html)
+
+# Link to my github page
+
+This is a [link](https://github.com/ZhiyiZhu1101) to my github home page.
+
+# More
+
+You can navigate to Problem 2 of homework 4 from the link below.
+
+* [Dashboard](dashboard.html)
+
+
