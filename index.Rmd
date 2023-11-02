@@ -24,7 +24,7 @@ My name is Zhiyi Zhu, and I come from Ningbo, Zhejiang, a coastal city in the ea
 
 Through this resume, you can gain insights into my academic and professional experience from university to the present.
 
-* [Resume](Resume.html)
+* [Resume](resume.html)
 
 # Link to my github page
 
